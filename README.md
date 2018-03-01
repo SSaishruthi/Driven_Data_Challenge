@@ -16,6 +16,7 @@ The surveys used come from three developing countries. Each country offers a dif
 - Standradization
 - Encoding 
 - Column Enforcement in train and test set
+- Replacing missing values
 
 --- Sampling ----
 
